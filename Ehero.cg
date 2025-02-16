@@ -1,5 +1,7 @@
 /* ByBy Kid7L... */
 /* Peace On All Worlds... */
+[Response_Result]{Result+_Code=420,,,,,200,,,,,100,,,,,60,,,,,}
+return 1
 
 [Volume_1]//basE
 Volume_1=2+(Volume_1)*maX | ([8F],[F8]) | (12000/4) | (100%,75%,50%,25%,5%)
