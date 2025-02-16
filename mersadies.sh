@@ -1,3 +1,3 @@
 #skynet
-tcpdump -i |@ @.mersadies.sh
+tcpdump -i |@ @.MSB7L.sh
 
